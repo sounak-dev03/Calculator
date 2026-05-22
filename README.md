@@ -1,4 +1,4 @@
-# To-Do List 📝
+# Calculator
 
 A simple and responsive calculator built using HTML, CSS, and JavaScript.
 
@@ -6,6 +6,7 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript.
 - Basic arithmetic operations
 - Responsive UI
 - Interactive button design
+- Fast calculations
 
 ## Technologies Used
 - HTML
@@ -23,15 +24,17 @@ Calculator/
 
 ## How to Run
 
-1. Clone the repository 
+1. Clone the repository
 
 ```bash
 git clone https://github.com/sounak-dev03/Calculator.git
 ```
 
-2. Open `Calculator.html` in your browser
+2. Open `Calculator.html` in your browser.
 
 ## Author
+
 Sounak Hazra
-- GitHub: https://github.com/sounak-dev03 
+
+- GitHub: https://github.com/sounak-dev03
 - LinkedIn: https://www.linkedin.com/in/sounak-hazra-52a6302b6
