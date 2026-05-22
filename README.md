@@ -6,7 +6,6 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript.
 - Basic arithmetic operations
 - Responsive UI
 - Interactive button design
-- Fast calculations
 
 ## Technologies Used
 - HTML
